@@ -1,4 +1,4 @@
-This is the readme file for assignment 2.
+This is the readme file for assignment 2 (assignment 3 further down)
 
 The purpose of this assignment is to make a linear regression plot for a dataset given to us in both python and R. I have made a Jupyter notebook for R and python as well as an html file for both.
 
@@ -35,3 +35,14 @@ After these commands are run, a png with the plots will appear (as well as a pdf
 
 
 This assignment was informative, where we learned how to make a scatterplot and linear regression from an imported data set, how to export html files, how to edit scripts to be able to accecpt arguments, and how tp export and execute scripts in the terminal.
+
+
+This is the readme for assignment 3. 
+
+In this assignment, we are learning how to:
+    1. clone a repository 
+    2. make a new branch within a github repository
+    3. edit our regression data from assignment 2
+    4. create tags within github to track changes better
+    5. create a pull request to re-combine a branch and the main branch
+    
